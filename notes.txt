@@ -1,1 +1,2 @@
 Learning Git staging, history and diff
+Learning selective staging
